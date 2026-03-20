@@ -1,4 +1,4 @@
-#**Pysecurity - Threat hunting software written in Python :**
+**PySecurity - Threat hunting software written in Python :**
 
 PySecurity is a threat detection tool that uses various APIs to identify different attack vectors and compromise methods.
 
