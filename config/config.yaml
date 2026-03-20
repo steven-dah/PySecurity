@@ -1,0 +1,18 @@
+project:
+  title: "PySecurity :"
+
+path:
+  icons: "config/icons"
+  api_keys: "api/keys/api_keys.env"
+  vt_hashes: "api/hashes/vt_hashes.txt"
+  mb_hashes: "api/hashes/mb_hashes.txt"
+  urls: "api/urls/urls.txt"
+  ips: "api/ips/ips.txt"
+  poxy: "proxy/proxy.txt"
+  denied: "proxy/denied.html"
+
+report:
+  vt_report: "api/vt_report.pdf"
+  mb_report: "api/mb_report.pdf"
+  url_report: "api/url_report.pdf"
+  proxy_report: "api/proxy_report.pdf"
