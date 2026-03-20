@@ -4,11 +4,14 @@ PySecurity is a threat detection tool that uses various APIs to identify differe
 
 To use it, please download and install the dependencies listed in the requirements.txt text file.
 
-Once this is done, to minimize errors, please retrieve your keys from the following platforms: 
+Once this is done, to minimize errors, please retrieve your keys from the following platforms : 
 
 VirusTotal
+
 MalwareBazaar
+
 URLScan 
+
 AbuseIPDB
 
 Then place them in the text file named api_keys.env located at the following path : PySecurity\api\keys\.
